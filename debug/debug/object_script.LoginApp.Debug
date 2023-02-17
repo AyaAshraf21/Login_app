@@ -1,0 +1,12 @@
+debug/change.o
+debug/change2.o
+debug/log.o
+debug/loginproject.o
+debug/main.o
+debug/login.o
+debug/register.o
+debug/moc_change.o
+debug/moc_change2.o
+debug/moc_log.o
+debug/moc_login.o
+debug/moc_register.o

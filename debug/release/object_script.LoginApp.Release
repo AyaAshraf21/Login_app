@@ -1,0 +1,12 @@
+release/change.o
+release/change2.o
+release/log.o
+release/loginproject.o
+release/main.o
+release/login.o
+release/register.o
+release/moc_change.o
+release/moc_change2.o
+release/moc_log.o
+release/moc_login.o
+release/moc_register.o
